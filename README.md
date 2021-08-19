@@ -7,6 +7,6 @@ I like to exercise and play video games and sometimes learn python
 # my family
 i have a sister
 # my books
-1. "Life as we knew it"
-2. "Percy Jackson and the lightning bolt"
-3. "Harry Potter"
+* "Life as we knew it"
+* "Percy Jackson and the lightning bolt"
+* "Harry Potter"
