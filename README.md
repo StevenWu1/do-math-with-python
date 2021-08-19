@@ -6,3 +6,5 @@ I like to exercise and play video games and sometimes learn python
 * bold text *
 # my family
 i have a sister
+# my books
+"Life as we knew it", "Percy Jackson and the lightning bolt", etc
