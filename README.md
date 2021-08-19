@@ -2,7 +2,7 @@
 this is a my first readme
 
 # my hobbies
-a second line is here
+I like to exercise and play video games and sometimes learn python
 * bold text *
 # my family
 i have a sister
